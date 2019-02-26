@@ -14,7 +14,7 @@ Ajudar iniciantes a praticar:
 - Troca de tela
 - Encapsulamento de informação através do putExtra
 - Extrair e utilizar a informção incapsulada atráves do bundle
-- utilizar random
+- Utilizar random
 
 Material de refêrencia
 ======================

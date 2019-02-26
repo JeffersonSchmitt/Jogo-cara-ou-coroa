@@ -19,7 +19,7 @@ Ajudar iniciantes a praticar:
 Material de refêrencia
 ======================
 
-[Curso udemy](https://www.udemy.com/)
+[Curso Jamilton damaceno Udemy](https://www.udemy.com/)
 
 IDE
 ====
@@ -35,3 +35,9 @@ Licença
 ========
 
 [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+Preview
+=======
+![imagem](https://i.imgur.com/hj6TgNR.png)
+![imagem2](https://i.imgur.com/VKPPKXL.png)
